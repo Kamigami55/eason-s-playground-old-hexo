@@ -6,7 +6,7 @@
 title: Eason's Playground
 subtitle: Let's make something awesome!
 author: Eason Chang
-language: zh-ch
+language: zh
 timezone: Asia/Taipei
 
 # URL
@@ -24,8 +24,8 @@ email: eason@easonchang.com
 description: "Let's make something awesome!"
 keyword: "Make, Code"
 header-img: img/header_img/home-bg-2-dark.png
-signature: true #show signature
-signature-img: img/signature/BeanTechSign-white.png 
+signature: false #show signature
+#signature-img: img/signature/BeanTechSign-white.png 
 
 
 # SNS settings
@@ -63,12 +63,12 @@ sidebar: true                       # whether or not using Sidebar.
 sidebar-about-description: "Hi, I am Eason!"
 sidebar-avatar: img/ironman-draw.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
-- featured-tags
 - short-about
 - recent-posts
-# - friends-blog
-# - archive
+- featured-tags
 - category
+- archive
+- friends-blog
 
 # widget behavior
 ## Archive
@@ -114,15 +114,15 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: true
 relative_link: false
-future: true
+future: false
 highlight:
   enable: true
   line_number: true
