@@ -1,7 +1,8 @@
 ---
 title: '如何在Mac OS X上安裝Verilog環境'
 date: 2016-03-18 17:40
-tags: [Verilog, Tutorial, MacOSX]
+tags: [Verilog, Tutorial, MacOSX, iVerilog, HDL, Tutorial]
+categories: Environment
 catalog: true
 header-img: "https://i.imgur.com/5qKcx3Q.jpg"
 ---

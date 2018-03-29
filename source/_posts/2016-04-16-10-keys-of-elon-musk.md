@@ -2,6 +2,7 @@
 title: '【閱讀筆記】從《他是玩真的！》汲取鋼鐵人Elon Musk創造未來的關鍵能力'
 date: 2016-04-16 18:30
 tags: [Reading, ElonMusk, IronMan]
+categories: Reading
 catalog: true
 header-img: "https://i.imgur.com/HqlXDN7.jpg"
 ---

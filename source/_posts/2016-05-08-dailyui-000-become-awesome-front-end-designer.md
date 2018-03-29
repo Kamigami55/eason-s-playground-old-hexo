@@ -1,7 +1,8 @@
 ---
 title: '【DailyUI #000】成為最強前端設計師吧'
 date: 2016-05-08 14:50
-tags: [DailyUI, Design, Project]
+tags: [DailyUI, Design, Project, Web]
+categories: DailyUI
 catalog: true
 header-img: "https://i.imgur.com/yMgo3z4.jpg"
 ---

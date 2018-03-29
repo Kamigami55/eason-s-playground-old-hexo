@@ -1,7 +1,8 @@
 ---
 title: '【DailyUI #001】Sign Up'
 date: 2016-05-09 07:28
-tags: [DailyUI, Project, Design]
+tags: [DailyUI, Project, Design, Web]
+categories: DailyUI
 catalog: true
 header-img: "https://i.imgur.com/rWNKTqv.jpg"
 ---

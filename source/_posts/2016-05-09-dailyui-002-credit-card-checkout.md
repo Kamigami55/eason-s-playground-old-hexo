@@ -1,7 +1,8 @@
 ---
 title: '【DailyUI #002】Credit Card Checkout'
 date: 2016-05-09 21:03
-tags: [DailyUI, Design, Project]
+tags: [DailyUI, Design, Project, Web]
+categories: DailyUI
 catalog: true
 header-img: "https://i.imgur.com/hEbjURo.jpg"
 ---

@@ -1,6 +1,7 @@
 ---
 title: '【閱讀筆記】少，但是更好——精準生活，拿回人生主控權'
 date: 2016-03-17 08:20
+tags: [Reading, Lifestyle]
 categories: Reading
 catalog: true
 header-img: "https://i.imgur.com/P0nkaLj.jpg"

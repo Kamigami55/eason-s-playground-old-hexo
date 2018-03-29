@@ -2,6 +2,7 @@
 title: '使用production mode啟動你的rails專案'
 date: 2016-08-16 02:34
 tags: [Rails, Tutorial]
+categories: Rails
 catalog: true
 header-img: "https://imgur.com/a21E49E.jpg"
 ---

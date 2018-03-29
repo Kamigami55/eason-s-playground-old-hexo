@@ -1,7 +1,8 @@
 ---
 title: '【DailyUI #003】Landing Page'
 date: 2016-05-10 19:43
-tags: [DailyUI, Project, Design]
+tags: [DailyUI, Project, Design, Web]
+categories: DailyUI
 catalog: true
 header-img: "https://i.imgur.com/5qKslKE.jpg"
 ---

@@ -2,6 +2,7 @@
 title: "【閱讀筆記】《魅力學》，培養魅力的第一本書"
 catalog: true
 date: 2016-11-18 02:37:09
+tags: [Reading]
 categories: [Reading]
 header-img: "https://imgur.com/PNh6wWF.jpg"
 ---

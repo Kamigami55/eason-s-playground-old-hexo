@@ -3,6 +3,7 @@ title: "Botkit初體驗，寫一隻Slack聊天機器人吧！"
 catalog: true
 date: 2017-03-10 02:57:34
 tags: [Botkit, Chatbot, Slack]
+categories: Chatbot
 header-img: "https://imgur.com/wnDgpFG.png"
 ---
 

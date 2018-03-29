@@ -3,6 +3,7 @@ title: "開發藍芽鋼琴APP！使用AppInventor結合Arduino、HC05、與蜂�
 catalog: true
 date: 2017-03-05 23:00:36
 tags: [AppInventor, HC05, Arduino]
+categories: Arduino
 header-img: "https://imgur.com/HXjQPNQ.png"
 ---
 
