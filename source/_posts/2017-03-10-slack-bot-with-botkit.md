@@ -9,6 +9,7 @@ categories:
 header-img: 'https://imgur.com/wnDgpFG.png'
 date: 2017-03-10 02:57:00
 ---
+# Botkit初體驗，寫一隻Slack聊天機器人吧！
 
 目標：寫出一隻能運作的Slack聊天機器人(Chatbot)
 
@@ -100,4 +101,3 @@ slack-bot.js範例支援幾句非常簡單的對話，試著跟他說以下的�
 - Call me Eason!
 
 ![](https://imgur.com/6VI5HdN.png)
-
