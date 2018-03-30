@@ -2,6 +2,7 @@
 /.deploy_git
 /db.json
 /package-lock.json
+/source/_drafts
 
 
 # Created by https://www.gitignore.io/api/vim,node,macos
