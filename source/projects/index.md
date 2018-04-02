@@ -17,7 +17,23 @@ description:
 
 ---
 
-## SigmaGO 智慧導盲犬
+## 智慧釀藏酒大師 Winster
+
+[專案介紹](/2018/04/02/winster/)
+
+「智慧釀藏酒大師 Winster」，是一套幫助您釀酒和控管酒況的釀藏酒平台。
+
+主要能夠提供專業釀酒玩家、小型釀酒企業，酒的品種以及產地的分析和釀酒過程的錯誤偵測，同時在網頁與行動裝置上指示用戶，註冊、偵測並顯示相關資訊，並紀錄之，亦可對於單純收藏酒的一般用戶提供酒況偵測與建議。
+
+技術上透過光學、溫度、濕度和重量感測，以及背後的數據收集，利用 RNN 的機器學習架構，採用 LSTM 來分析原始資料。
+
+這項作品拿到了 **[2017 ARM Design Contest](http://www.armdesigncontest.com/customers/login/) 決賽入圍**，以及 **[第2屆遠傳物聯網應用開發大賽](http://promotion.fetnet.net/ebu/2017IoTHackathon/index.html)的 Ericsson 企業獎**。
+
+![upload successful](/img/post_img/pasted-10.png)
+
+---
+
+## 智慧導盲犬 SigmaGO
 
 [專案介紹](/2018/03/30/sigmago/)
 
@@ -25,7 +41,14 @@ description:
 
 專案目的是開發低成本的智慧導盲犬，取代需要龐大成本訓練的傳統導盲犬，造福盲人朋友的生活。
 
+技術上使用了 **Raspberry Pi 3** 做運算，串接威盛電子提供的 **[Olami 中文語意辨識平台](https://tw.olami.ai/open/website/home/home_show)**，即時辨識使用者的語音命令，**Arduino** 小車車（機械導盲犬的 Prototype）就會帶使用者前往目標地點。
+
+這個專案最後拿下了**威盛電子超級黑客獎**和**大會技術人氣獎**。
+
+
 ![](https://i.imgur.com/8E5onDg.jpg)
+
+---
 
 ## 100sites
 
