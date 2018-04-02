@@ -87,11 +87,14 @@ friends: [
         title: "Bean Tech",
         href: "http://beantech.org"
     },{
-        title: "Kaijun's Blog",
-        href: "http://blog.kaijun.rocks"
-    },{
         title: "Hux Blog",
         href: "http://huangxuan.me"
+    },{
+        title: "alfons0329's Blog",
+        href: "https://alfons0329.github.io/afhwu0329.github.io/"
+    },{
+        title: "stdio2016 的網站",
+        href: "https://stdio2016.github.io/"
     }
 ]
 
