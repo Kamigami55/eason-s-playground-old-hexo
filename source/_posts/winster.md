@@ -9,9 +9,9 @@ tags:
   - Web
 categories:
   - Project
+header-img: /img/post_img/winster-cover.png
 date: 2018-04-02 16:56:00
 subtitle:
-header-img: /img/post_img/winster-cover.png
 ---
 # 【專案】智慧釀藏酒大師 Winster
 
@@ -37,6 +37,8 @@ header-img: /img/post_img/winster-cover.png
 ![upload successful](/img/post_img/pasted-8.png)
 
 ### 硬體
+
+STM32F469NIH6程式碼：[ericz7000nolan/Arm-contest](https://github.com/ericz7000nolan/Arm-contest)
 
 一、自製電壓偵測模組：以電阻值反比於亮度(正比於電阻倒數)的形式進行測量。欲量得光譜值、溫度、重量的值，須先測得其電阻，另外串連一個適當電阻，測其跨壓，來得出酒況，進而得出口感和相關產地。
 
@@ -91,4 +93,3 @@ Winster裝置成品：
 ## 專案成員
 
 Eason Chang、Eric Chang、Michael Chen
-
