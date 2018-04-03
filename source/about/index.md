@@ -15,6 +15,13 @@ date: 2016-04-21 04:48:33
 
 這裡的永久網址為：[https://www.easonchang.com/](https://www.easonchang.com/)
 
+這裡所有內容都採用 **<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/tw/">創用 CC 姓名標示-相同方式分享 3.0 台灣 授權條款</a>** 授權。 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/tw/"><img alt="創用 CC 授權條款" style="display: inline-block; border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/tw/88x31.png" /></a>
+
+歡迎自由分享、改作～不過必須註明出處：**「轉載自 [Eason's Playground](https://www.easonchang.com/)」**。
+
+
+---
+
 Eason's Playground 在 Facebook 上也有個同名粉絲專頁，部落格內的貼文會同步更新在那兒，歡迎前往按讚、追蹤、分享～
 
 Facebook 粉專：[Eason's blog (@eason.blog)](https://www.facebook.com/eason.blog/)
