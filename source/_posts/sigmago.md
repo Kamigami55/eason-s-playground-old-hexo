@@ -24,7 +24,7 @@ subtitle:
 
 ## 簡介
 
-**「SigmaGO 智慧導盲犬」**，是我在2017年7月時參加 **[2017 臺大黑客松 HackNTU](https://hackntu.tumblr.com/tagged/intro)** 時，開發的軟硬整合專案。
+**「SigmaGO 智慧導盲犬」**，是我們在2017年7月時參加 **[2017 臺大黑客松 HackNTU](https://hackntu.tumblr.com/tagged/intro)** 時，開發的軟硬整合專案。
 
 專案目的是開發低成本的智慧導盲犬，取代需要龐大成本訓練的傳統導盲犬，造福盲人朋友的生活。
 
@@ -32,7 +32,22 @@ subtitle:
 
 這個專案最後拿下了**威盛電子超級黑客獎**和**大會技術人氣獎**。
 
-## 詳細介紹
+團隊成員：**[Eugene](https://github.com/eugenejahn)、Shang、Jamie、Eason、Howard**
+
+## SigmaGO 成品
+
+![](https://i.imgur.com/8E5onDg.jpg)
+
+
+## 實際操作 Demo 影片
+
+{% youtube ZKRa4QlMXMs %}
+
+## 大會DEMO簡報
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/7zndtymOdt9mrI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser524a9d/sigma-go" title="Sigma go 智慧導盲犬" target="_blank">Sigma go 智慧導盲犬</a> </strong> from <strong><a href="https://www.slideshare.net/ssuser524a9d" target="_blank">楹翔 張</a></strong> </div>
+
+## 細節介紹
 
 ### 緣起：為什麼世界需要 SigmaGO
 
@@ -41,10 +56,6 @@ subtitle:
 
 > SigmaGO, Go For It!
 
-### 大會DEMO簡報
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/7zndtymOdt9mrI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser524a9d/sigma-go" title="Sigma go 智慧導盲犬" target="_blank">Sigma go 智慧導盲犬</a> </strong> from <strong><a href="https://www.slideshare.net/ssuser524a9d" target="_blank">楹翔 張</a></strong> </div>
-
 ### SigmaGO 使用方法
 
 1. 打開電源開關！
@@ -52,31 +63,17 @@ subtitle:
 3. 牠將帶你到你要去的地方
 4. 94這麼簡單！
 
-### 實際操作 Demo 影片
-
-{% owl youtube ZKRa4QlMXMs %}
-
 ### 系統架構
 
 使用威盛電子提供的 [OLAMI 中文語意分析平台](https://tw.olami.ai/open/website/home/home_show)及現場提供的 Raspberry Pi 3 硬體開發套件，連結自製的 Arduino 機械犬，讓盲胞可以自然地使用中文向機械犬下指令，機械犬就會引導盲胞前往想去的地點，改善盲人的生活！
 
-SigmaGo 程式碼（Github）：[Kamigami55/SigmaGo](https://github.com/Kamigami55/SigmaGo)
-
 ![](https://i.imgur.com/7thls3j.jpg)
 
-### 實體成品
+### 程式碼
 
-![](https://i.imgur.com/8E5onDg.jpg)
+SigmaGo 程式碼（Github）：[Kamigami55/SigmaGo](https://github.com/Kamigami55/SigmaGo)
 
-### 團隊成員
-
-- Eugene 
-	- GitHub: (https://github.com/eugenejahn)
-	- Gmail: eugenejahnjahn@gmail.com
-- Shang 
-- Jamie  
-- Eason
-- Howard
+內含：Arduino機械犬韌體程式碼、樹莓派串接程式、Olami規則檔
 
 ### 獎項
 
