@@ -29,7 +29,7 @@ signature: false #show signature
 
 
 # SNS settings
-# RSS: false
+RSS: true
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
 github_username:    Kamigami55
@@ -95,6 +95,9 @@ friends: [
     },{
         title: "stdio2016 的網站",
         href: "https://stdio2016.github.io/"
+    },{
+        title: "Eugene Jahn",
+        href: "https://eugenejahn.github.io/"
     }
 ]
 
@@ -179,3 +182,14 @@ deploy:
   type: git
   repository: https://github.com/Kamigami55/Kamigami55.github.io.git
   branch: master
+
+
+# RSS (hexo-generator-feed)
+feed:
+  type: atom
+  path: feed.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
